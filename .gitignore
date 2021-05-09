@@ -1,0 +1,11 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Big csv
+analyst_ratings_processed.csv
+raw_partner_headlines.csv
+raw_analyst_ratings.csv
+
+
+
