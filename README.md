@@ -5,7 +5,7 @@ We want to determine whether there is a correlation between the news sentiment a
 We clearly know that there are many factors affecting the stock fluctuation. In our analysis, we assume that the people transforming the news sentiments into trading actions are non-professional investors, who sell with negative news and buy with positive news. We will not go into the sentimental causation of actions happening in people. We infer that the strong news sentiments affect these investors’ judgement and action significantly as result, and then causes the stock fluctuation after the rapid butterfly effect happening on trading.
 
 
-# Autuors
+# Authors
 This work is a collaboration of the following individuals:
 
 [Thomson Choi](https://github.com/tmsnc)
@@ -25,4 +25,4 @@ Masters of Applied Data Science (MADS)
 
 # Suggested Citation
 
-Choi-Wang, Sentiment Analysis on Financial News and Stock Returns, 2021, Retrieved from: (https://github.com/MADS-Thesis-Project/Sentiment-Aanalysis-on-Financial-News-and-Stock-Returns)
+Choi-Wang, Sentiment Analysis on Financial News and Stock Returns, 2021, Retrieved from: (https://github.com/MADS-Thesis-Project/Sentiment-Analysis-on-Financial-News-and-Stock-Returns)
