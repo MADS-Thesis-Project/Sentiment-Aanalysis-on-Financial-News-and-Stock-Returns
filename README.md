@@ -18,9 +18,11 @@ The published version of the report can be found here:
 # Project Origin
 
 SIADS-591-592 Milestone I Project - Sentiment Analysis on Financial News and Stock Returns
+
 University of Michigan - School of Information
+
 Masters of Applied Data Science (MADS)
 
 # Suggested Citation
 
-Choi-Wang, Sentiment Analysis on Financial News and Stock Returns, 2021, Retrieved from: 
+Choi-Wang, Sentiment Analysis on Financial News and Stock Returns, 2021, Retrieved from: (https://github.com/MADS-Thesis-Project/Sentiment-Aanalysis-on-Financial-News-and-Stock-Returns)
