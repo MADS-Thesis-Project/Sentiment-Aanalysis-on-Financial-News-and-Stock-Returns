@@ -8,9 +8,9 @@ We clearly know that there are many factors affecting the stock fluctuation. In 
 # Autuors
 This work is a collaboration of the following individuals:
 
-Thomson Choi
 [Thomson Choi](https://github.com/tmsnc)
-Yizhuo Wang
+
+[Yizhuo Wang](https://github.com/icedcoke0)
 
 # Full Report
 The published version of the report can be found here:
