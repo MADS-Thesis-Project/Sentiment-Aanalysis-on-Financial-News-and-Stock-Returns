@@ -17,6 +17,7 @@ This work is a collaboration of the following individuals:
 
 # Full Report
 The published version of the report can be found here:
+
 [Final Report](https://github.com/MADS-Thesis-Project/Sentiment-Analysis-on-Financial-News-and-Stock-Returns/blob/main/Final%20Report.pdf)
 
 # Project Origin
